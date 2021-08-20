@@ -57,6 +57,10 @@ table {
   font: 100%;
 }
 
+footer {
+  font-family: Monaco, "Courier New", monospace;
+  margin-bottom: 2em;
+}
 /*****************************************************************************/
 /*
 /* Home
