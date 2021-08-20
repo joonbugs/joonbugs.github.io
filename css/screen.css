@@ -97,12 +97,12 @@ ul.posts span {
   color: #a00;
   font-weight: bold;
   margin-bottom: 2em;
+  margin-left: 2em;
 }
 
   .site .title a {
     color: #a00;
     text-decoration: none;
-    margin-left: 1em;
   }
 
   .site .title a:hover {
