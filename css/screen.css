@@ -97,7 +97,6 @@ ul.posts span {
   color: #a00;
   font-weight: bold;
   margin-bottom: 2em;
-  margin-left: 2em;
 }
 
   .site .title a {
@@ -118,7 +117,9 @@ ul.posts span {
   .site .title a.extra:hover {
     color: black;
   }
-
+  .site .title .nav {
+    margin-left: 1em;
+  }
   .site .meta {
     color: #aaa;
   }
