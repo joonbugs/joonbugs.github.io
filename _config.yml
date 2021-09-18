@@ -11,7 +11,7 @@ title                    : "JW Jang"
 title_separator          : "-"
 name                     : &name "JiWoong Jang"
 description              : &description "personal description"
-url                      : https://joonbugs.github.io
+url                      : "https://joonbugs.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joonbugs/joonbugs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "JiWoong (Joon) Jang"
+  avatar           : "headshot_square_web.jpg"
+  bio              : "Senior @ CMU - Major in AI, minor in HCI. Interests in Accessibility + AI + HCI"
+  location         : "Pittsburgh, PA, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com" #TBD
+  email            : "jiwoongj@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "joonbugs"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle" # TBD
   vine             :
   weibo            :
   xing             :
