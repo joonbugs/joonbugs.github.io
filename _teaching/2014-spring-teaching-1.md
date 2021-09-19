@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Accessibility (05-499 / 05-899)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/accessibility
+venue: "Carnegie Mellon University, Human-Computer Interaction Institute"
+date: 2022-08-30
 location: "City, Country"
 ---
 
