@@ -13,7 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Artificial Intelligence (minor in Human-Computer Interaction), 2022 (expected)
+* Carnegie Mellon University, 2022 (expected)
+  * B.S. in Artificial Intelligence, minor in Human-Computer Interaction
 
 Under Construction
 ----
