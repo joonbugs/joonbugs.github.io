@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my CV can be found [here](~/files/jwjang_cv_2021_sept.pdf).
+A PDF version of my CV can be found [here](../files/jwjang_cv_2021_sept.pdf).
 
 Education
 ======
-* Carnegie Mellon University, 2022 (expected)
+* __Carnegie Mellon University__, 2018 - 2022 (expected)
   * B.S. in Artificial Intelligence, minor in Human-Computer Interaction
 
 Under Construction
