@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate senior at Carnegie Mellon University (CMU) majoring in AI and minoring in HCI, applying for a Ph.D this application cycle. My studies are supported by [CMU's Presidential Scholarship].(https://www.cmu.edu/sfs/financial-aid/types/scholarships-and-grants/university.html) 
+I'm an undergraduate senior at Carnegie Mellon University (CMU) majoring in AI and minoring in HCI, applying for a Ph.D this application cycle. My studies are supported by [CMU's Presidential Scholarship](https://www.cmu.edu/sfs/financial-aid/types/scholarships-and-grants/university.html).
 
 My research interests are at the intersection of accessibility (A11y), disability studies, applications of ML methods, and interface and controls interaction design for computer and robotic systems. I'm interested in pursuing a Ph.D. to conduct further research in topics relating to innovations in interactive experiences and controls, particularly advancements which may have an impact to persons with disabilities.
 
