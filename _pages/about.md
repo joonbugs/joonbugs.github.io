@@ -12,7 +12,7 @@ I'm an undergraduate senior at Carnegie Mellon University (CMU) majoring in AI a
 
 My research interests are at the intersection of accessibility (A11y), disability studies, applications of ML methods, and interface and controls interaction design for computer and robotic systems. I'm interested in pursuing a Ph.D. to conduct further research in topics relating to innovations in interactive experiences and controls, particularly advancements which may have an impact to persons with disabilities.
 
-I am advised by [Patrick Carrington](https://www.patrickcarrington.com) for my senior honors thesis, and a member of [AXLE Lab](https://axle-lab.com) in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu), where I'm currently exploring and designing trust-embodying informatics display designs and controls for an autonomous wheelchair.
+I'm advised by [Patrick Carrington](https://www.patrickcarrington.com) for my senior honors thesis, and a member of [AXLE Lab](https://axle-lab.com) in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu), where I'm currently exploring and designing trust-embodying informatics display designs and controls for an autonomous wheelchair.
 
 I've had the privilege of being guided in my research journey by passionate advisors such as _(in reverse-chronological order)_: [Arvind Satyanarayan](https://arvindsatya.com), [Amy Pavel](https://amypavel.com), [Jeff Bigham](https://www.cs.cmu.edu/~jbigham/), [Vincent Aleven](http://www.cs.cmu.edu/~aleven/), and [Illah Nourbakhsh](https://www.cs.cmu.edu/~illah/).
 

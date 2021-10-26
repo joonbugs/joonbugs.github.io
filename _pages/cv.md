@@ -13,10 +13,11 @@ A PDF version of my CV can be found [here](../files/jwjang_cv_2021_sept.pdf).
 
 Education
 ======
-* __Carnegie Mellon University__, 2018 - 2022 (expected)
-  * B.S. in Artificial Intelligence, minor in Human-Computer Interaction
+__Carnegie Mellon University__, 2018 - 2022 (expected)
+* B.S. in Artificial Intelligence, minor in Human-Computer Interaction
+  ** GPA 3.9 / 4.0 (major and overall)
 
-Under Construction
+Under Construction (sorry! please reference the PDF for now)
 ----
 <!-- Publications
 ======
