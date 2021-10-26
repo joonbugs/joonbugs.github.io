@@ -3,12 +3,11 @@ title: "Accessibility (05-499 / 05-899)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/accessibility
-venue: "Carnegie Mellon University, Human-Computer Interaction Institute"
-date: 2021-08-30
+venue: "Carnegie Mellon University, Human-Computer Interaction Institute, Fall 2021"
+# date: 2021-08-30
 location: "Pittsburgh, PA, USA"
 ---
-
-Fall 2021
+.
 
 _Description of the course..._
 
