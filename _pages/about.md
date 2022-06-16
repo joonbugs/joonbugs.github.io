@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! ✌️ I'm an incoming Ph.D. student from the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu) at Carnegie Mellon University (CMU HCII). 
+Hi there! ✌️ I'm an incoming Ph.D. student at the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu), which is a part of Carnegie Mellon University's School of Computer Science. 
 
 I focus on research at the intersection of accessibility ([A11y](https://www.a11yproject.com)), disability studies, computer vision applications, and [IxD](https://en.wikipedia.org/wiki/Interaction_design) for computer and robotic systems. I'm currently a member of [AXLE Lab](https://axle-lab.com).
 
